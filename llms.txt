@@ -1,0 +1,27 @@
+# GetSome Rest
+
+> Honest, tested sleep and recovery product guides with real prices and no paid rankings. Bedroom setup, sleep tech, naps & recovery, wind down routines, and sleep news.
+
+## Guides
+- [Best Mattress for Back Pain Under $500](https://getsome.rest/blog/best-mattress-for-back-pain-under-500/): We tested and compared affordable mattresses that actually support an aching back. These are the best options under $500 for waking up with less stiffness.
+- [Best Budget Mattress Under $300](https://getsome.rest/blog/best-budget-mattress-under-300/): You do not need to spend a fortune to sleep well. We found the three best mattresses under $300 that deliver real comfort, support, and value.
+- [Memory Foam vs Hybrid Mattress for Hot Sleepers](https://getsome.rest/blog/memory-foam-vs-hybrid-mattress-hot-sleepers/): Memory foam hugs, hybrids breathe. We compare both build types for hot sleepers and pick the three coolest mattresses you can buy right now.
+- [Best Cooling Mattress Topper for Night Sweats](https://getsome.rest/blog/best-cooling-mattress-topper-night-sweats/): We compared the best cooling mattress toppers for night sweats in 2026, from the Bear Pro Topper to the budget Lucid gel topper, so you can sleep cooler tonight.
+- [Best Blackout Curtains for Shift Workers](https://getsome.rest/blog/best-blackout-curtains-shift-workers/): We compared the best blackout curtains for shift workers in 2026, testing NICETOWN, Deconovo and a no-drill RYB HOME pick for true daytime darkness.
+- [Best Pillows for Side Sleepers](https://getsome.rest/blog/best-pillows-for-side-sleepers/): We compared the best pillows for side sleepers in 2026, from the adjustable Coop Eden to the budget Beckham Hotel two-pack, for neck-aligned rest.
+- [Latex vs Memory Foam Mattress: Which Sleeps Cooler?](https://getsome.rest/blog/latex-vs-memory-foam-mattress-cooler/): We compare how latex and memory foam handle heat, then pick three mattresses that genuinely sleep cooler — from a natural latex hybrid to a budget-friendly foam.
+- [Best White Noise Machine for Light Sleepers](https://getsome.rest/blog/best-white-noise-machine-light-sleepers/): The right white noise machine can turn a light sleeper into a deep sleeper. We compare three proven options, from a simple real-fan classic to a smart sleep companion.
+- [Best White Noise Machine for Office Focus](https://getsome.rest/blog/best-white-noise-machine-office-focus/): A good desk white noise machine masks office chatter without headphones. We pick three proven options for open offices and home desks, from $35 portables to fine-tuned sound machines.
+- [Best Sunrise Alarm Clock for Heavy Sleepers](https://getsome.rest/blog/best-sunrise-alarm-clock-heavy-sleepers/): If alarms alone never work, a sunrise clock can. We compare three sunrise alarm clocks for heavy sleepers, pairing gradual dawn light with backup sounds that actually wake you.
+
+## Categories
+- [Bedroom Setup](https://getsome.rest/category/bedroom-setup/): mattresses, pillows, bedding and blackout gear compared with real prices.
+- [Sleep Tech & Gadgets](https://getsome.rest/category/sleep-tech/): trackers, white-noise machines, sunrise clocks.
+- [Sleep Guides](https://getsome.rest/category/sleep-guides/): schedules, habits and bedroom basics.
+- [Naps & Recovery](https://getsome.rest/category/naps-recovery/): short-rest tactics and recovery gear.
+- [Wind Down](https://getsome.rest/category/wind-down/): evening routines and calming habits.
+- [Sleep News](https://getsome.rest/category/sleep-news/): sleep research, product launches and AI sleep tech.
+
+## About
+- [About](https://getsome.rest/about/): how we test; rankings are never for sale.
+- [Contact](https://getsome.rest/contact/): hello@getsome.rest
