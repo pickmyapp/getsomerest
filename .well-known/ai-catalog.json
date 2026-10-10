@@ -1,0 +1,50 @@
+{
+ "entries": [
+  {
+   "identifier": "urn:air:getsome.rest:guides",
+   "displayName": "GetSome Rest Sleep Guides",
+   "description": "Honest, tested sleep and recovery product guides: mattresses, pillows, bedding, white-noise machines, sunrise clocks and bedroom setup, with real prices and no paid rankings.",
+   "url": "https://getsome.rest/",
+   "type": "text/html",
+   "capabilities": [
+    "content-discovery",
+    "reading"
+   ],
+   "representativeQueries": [
+    "best mattress for back pain under $500",
+    "best white noise machine for light sleepers"
+   ]
+  },
+  {
+   "identifier": "urn:air:getsome.rest:category:bedroom-setup",
+   "displayName": "Bedroom Setup \u2014 GetSome Rest",
+   "description": "Sleep product guides in Bedroom Setup, with real prices and tested picks.",
+   "url": "https://getsome.rest/category/bedroom-setup/",
+   "type": "text/html",
+   "capabilities": [
+    "content-discovery",
+    "reading"
+   ],
+   "representativeQueries": [
+    "best mattress for back pain under $500",
+    "best bedroom setup products 2026"
+   ]
+  },
+  {
+   "identifier": "urn:air:getsome.rest:category:sleep-tech",
+   "displayName": "Sleep Tech \u2014 GetSome Rest",
+   "description": "Sleep product guides in Sleep Tech, with real prices and tested picks.",
+   "url": "https://getsome.rest/category/sleep-tech/",
+   "type": "text/html",
+   "capabilities": [
+    "content-discovery",
+    "reading"
+   ],
+   "representativeQueries": [
+    "best mattress for back pain under $500",
+    "best sleep tech products 2026"
+   ]
+  }
+ ],
+ "specVersion": "1.0"
+}
