@@ -16,6 +16,21 @@
    ]
   },
   {
+   "identifier": "urn:air:getsome.rest:category:ai-sleep-tech",
+   "displayName": "AI & Sleep Tech \u2014 GetSome Rest",
+   "description": "Sleep product guides in AI & Sleep Tech, with real prices and tested picks.",
+   "url": "https://getsome.rest/category/ai-sleep-tech/",
+   "type": "text/html",
+   "capabilities": [
+    "content-discovery",
+    "reading"
+   ],
+   "representativeQueries": [
+    "best sleep tracker without a subscription",
+    "best ai & sleep tech products 2026"
+   ]
+  },
+  {
    "identifier": "urn:air:getsome.rest:category:bedroom-setup",
    "displayName": "Bedroom Setup \u2014 GetSome Rest",
    "description": "Sleep product guides in Bedroom Setup, with real prices and tested picks.",
@@ -26,14 +41,74 @@
     "reading"
    ],
    "representativeQueries": [
-    "best mattress for back pain under $500",
+    "best sleep tracker without a subscription",
     "best bedroom setup products 2026"
    ]
   },
   {
+   "identifier": "urn:air:getsome.rest:category:naps-recovery",
+   "displayName": "Naps & Recovery \u2014 GetSome Rest",
+   "description": "Sleep product guides in Naps & Recovery, with real prices and tested picks.",
+   "url": "https://getsome.rest/category/naps-recovery/",
+   "type": "text/html",
+   "capabilities": [
+    "content-discovery",
+    "reading"
+   ],
+   "representativeQueries": [
+    "best sleep tracker without a subscription",
+    "best naps & recovery products 2026"
+   ]
+  },
+  {
+   "identifier": "urn:air:getsome.rest:category:new-launches",
+   "displayName": "New Product Launches \u2014 GetSome Rest",
+   "description": "Sleep product guides in New Product Launches, with real prices and tested picks.",
+   "url": "https://getsome.rest/category/new-launches/",
+   "type": "text/html",
+   "capabilities": [
+    "content-discovery",
+    "reading"
+   ],
+   "representativeQueries": [
+    "best sleep tracker without a subscription",
+    "best new product launches products 2026"
+   ]
+  },
+  {
+   "identifier": "urn:air:getsome.rest:category:sleep-guides",
+   "displayName": "Sleep Guides \u2014 GetSome Rest",
+   "description": "Sleep product guides in Sleep Guides, with real prices and tested picks.",
+   "url": "https://getsome.rest/category/sleep-guides/",
+   "type": "text/html",
+   "capabilities": [
+    "content-discovery",
+    "reading"
+   ],
+   "representativeQueries": [
+    "best sleep tracker without a subscription",
+    "best sleep guides products 2026"
+   ]
+  },
+  {
+   "identifier": "urn:air:getsome.rest:category:sleep-news",
+   "displayName": "Sleep News & Research \u2014 GetSome Rest",
+   "description": "Sleep product guides in Sleep News & Research, with real prices and tested picks.",
+   "url": "https://getsome.rest/category/sleep-news/",
+   "type": "text/html",
+   "capabilities": [
+    "content-discovery",
+    "reading"
+   ],
+   "representativeQueries": [
+    "best sleep tracker without a subscription",
+    "best sleep news & research products 2026"
+   ]
+  },
+  {
    "identifier": "urn:air:getsome.rest:category:sleep-tech",
-   "displayName": "Sleep Tech \u2014 GetSome Rest",
-   "description": "Sleep product guides in Sleep Tech, with real prices and tested picks.",
+   "displayName": "Sleep Tech & Gadgets \u2014 GetSome Rest",
+   "description": "Sleep product guides in Sleep Tech & Gadgets, with real prices and tested picks.",
    "url": "https://getsome.rest/category/sleep-tech/",
    "type": "text/html",
    "capabilities": [
@@ -41,8 +116,23 @@
     "reading"
    ],
    "representativeQueries": [
-    "best mattress for back pain under $500",
-    "best sleep tech products 2026"
+    "best sleep tracker without a subscription",
+    "best sleep tech & gadgets products 2026"
+   ]
+  },
+  {
+   "identifier": "urn:air:getsome.rest:category:wind-down",
+   "displayName": "Wind Down \u2014 GetSome Rest",
+   "description": "Sleep product guides in Wind Down, with real prices and tested picks.",
+   "url": "https://getsome.rest/category/wind-down/",
+   "type": "text/html",
+   "capabilities": [
+    "content-discovery",
+    "reading"
+   ],
+   "representativeQueries": [
+    "best sleep tracker without a subscription",
+    "best wind down products 2026"
    ]
   }
  ],
