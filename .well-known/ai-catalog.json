@@ -26,7 +26,7 @@
     "reading"
    ],
    "representativeQueries": [
-    "best heated mattress pad for winter: bwarm heatsync vs the alternatives",
+    "best ambient sounds for deep sleep: brown noise, rain and fan sound (2026)",
     "best ai & sleep tech products 2026"
    ]
   },
@@ -41,7 +41,7 @@
     "reading"
    ],
    "representativeQueries": [
-    "best heated mattress pad for winter: bwarm heatsync vs the alternatives",
+    "best ambient sounds for deep sleep: brown noise, rain and fan sound (2026)",
     "best bedroom setup products 2026"
    ]
   },
@@ -56,14 +56,14 @@
     "reading"
    ],
    "representativeQueries": [
-    "best heated mattress pad for winter: bwarm heatsync vs the alternatives",
+    "best ambient sounds for deep sleep: brown noise, rain and fan sound (2026)",
     "best naps & recovery products 2026"
    ]
   },
   {
    "identifier": "urn:air:getsome.rest:category:new-launches",
-   "displayName": "New Product Launches \u2014 GetSome Rest",
-   "description": "Sleep product guides in New Product Launches, with real prices and tested picks.",
+   "displayName": "New Launches \u2014 GetSome Rest",
+   "description": "Sleep product guides in New Launches, with real prices and tested picks.",
    "url": "https://getsome.rest/category/new-launches/",
    "type": "text/html",
    "capabilities": [
@@ -71,8 +71,8 @@
     "reading"
    ],
    "representativeQueries": [
-    "best heated mattress pad for winter: bwarm heatsync vs the alternatives",
-    "best new product launches products 2026"
+    "best ambient sounds for deep sleep: brown noise, rain and fan sound (2026)",
+    "best new launches products 2026"
    ]
   },
   {
@@ -86,7 +86,7 @@
     "reading"
    ],
    "representativeQueries": [
-    "best heated mattress pad for winter: bwarm heatsync vs the alternatives",
+    "best ambient sounds for deep sleep: brown noise, rain and fan sound (2026)",
     "best sleep guides products 2026"
    ]
   },
@@ -101,14 +101,14 @@
     "reading"
    ],
    "representativeQueries": [
-    "best heated mattress pad for winter: bwarm heatsync vs the alternatives",
+    "best ambient sounds for deep sleep: brown noise, rain and fan sound (2026)",
     "best sleep news products 2026"
    ]
   },
   {
    "identifier": "urn:air:getsome.rest:category:sleep-tech",
-   "displayName": "Sleep Tech & Gadgets \u2014 GetSome Rest",
-   "description": "Sleep product guides in Sleep Tech & Gadgets, with real prices and tested picks.",
+   "displayName": "Sleep Tech \u2014 GetSome Rest",
+   "description": "Sleep product guides in Sleep Tech, with real prices and tested picks.",
    "url": "https://getsome.rest/category/sleep-tech/",
    "type": "text/html",
    "capabilities": [
@@ -116,8 +116,8 @@
     "reading"
    ],
    "representativeQueries": [
-    "best heated mattress pad for winter: bwarm heatsync vs the alternatives",
-    "best sleep tech & gadgets products 2026"
+    "best ambient sounds for deep sleep: brown noise, rain and fan sound (2026)",
+    "best sleep tech products 2026"
    ]
   },
   {
@@ -131,7 +131,7 @@
     "reading"
    ],
    "representativeQueries": [
-    "best heated mattress pad for winter: bwarm heatsync vs the alternatives",
+    "best ambient sounds for deep sleep: brown noise, rain and fan sound (2026)",
     "best wind down products 2026"
    ]
   }
